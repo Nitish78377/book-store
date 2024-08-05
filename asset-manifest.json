@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nitish78377/book-store/static/css/main.a56ccd22.css",
+    "main.js": "/Nitish78377/book-store/static/js/main.45077d9b.js",
+    "static/media/bg.jpg": "/Nitish78377/book-store/static/media/bg.0ccb0528e328dd7efe85.jpg",
+    "static/media/auth-bg.jpg": "/Nitish78377/book-store/static/media/auth-bg.a8584f3e54d0e13925d1.jpg",
+    "static/media/cart.svg": "/Nitish78377/book-store/static/media/cart.bb6394797d5e56236694c1ab7f7c5290.svg",
+    "index.html": "/Nitish78377/book-store/index.html",
+    "main.a56ccd22.css.map": "/Nitish78377/book-store/static/css/main.a56ccd22.css.map",
+    "main.45077d9b.js.map": "/Nitish78377/book-store/static/js/main.45077d9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56ccd22.css",
+    "static/js/main.45077d9b.js"
+  ]
+}
